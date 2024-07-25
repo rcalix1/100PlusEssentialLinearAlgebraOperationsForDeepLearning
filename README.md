@@ -5,8 +5,7 @@
 
 ## Book
 
-This is the repo for my new book "Deep Learning Algorithms".
-
+This is the repo for my new book "100 + Essential Linear Algebra Operations For Deep Learning".
 
 
 <a href="https://amzn.to/3SlQGHC"><img src="llamaBook.jpeg" alt="image" width="300" height="auto"></a>
