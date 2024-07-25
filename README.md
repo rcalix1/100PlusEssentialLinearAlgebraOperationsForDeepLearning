@@ -7,7 +7,11 @@
 
 This is the repo for my new book "Deep Learning Algorithms".
 
-<a href="https://amzn.to/3SlQGHC"><img src="llamaBook.jpeg" alt="image" width="300" height="auto"></a>
+
+
+<a href="https://amzn.to/3SlQGHC">
+  <img src="https://github.com/rcalix1/100PlusEssentialLinearAlgebraOperationsForDeepLearning/llamaBook.jpeg" alt="image" width="300" height="auto">
+</a>
 
 ## FTC and Amazon Disclaimer: 
 
