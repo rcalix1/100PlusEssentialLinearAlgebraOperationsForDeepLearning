@@ -17,4 +17,8 @@ This post/page/article includes Amazon Affiliate links to products. This site re
 ## Tensor Operations
 
 * AGS
+* colab
+* Data: https://github.com/rcalix1/CyberSecurityAndMachineLearning/tree/main/FirstEdition/Ch10_AIassurance/AdversarialML
+* https://github.com/rcalix1/TransferLearning/blob/main/fastai/colab/InClassFastAIcolabMalwarw.ipynb
+* https://github.com/rcalix1/DeepLearningAlgorithms/tree/main/SecondEdition/Chapter10_Transformers/GPTs
 * 
