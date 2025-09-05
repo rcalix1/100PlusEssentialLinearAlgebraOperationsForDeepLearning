@@ -2,6 +2,7 @@
 
 * Companion to my book of the same name
 * Jupyter notebooks for problems 1 to 109
+* AGS 
 
 ## Book
 
