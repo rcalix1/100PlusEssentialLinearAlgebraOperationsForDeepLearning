@@ -6,15 +6,6 @@
 
 ---
 
-## How LLMs Work
-
-* AGS
-* How LLMs work under the hood
-
-## Link
-
-* https://github.com/rcalix1/DeepLearningAlgorithms/tree/main/SecondEdition/Chapter10_Transformers/GPTs
-
 # 🔢 Dot Product Example with PyTorch
 
 This is a minimal example that demonstrates how to compute the **dot product** of two vectors using PyTorch.
